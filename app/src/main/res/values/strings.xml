@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">WeatherView</string>
-    <string name="api_key">0739127298bd538e340ee57193f9dabc</string>
+    <string name="api_key">API_KEY</string>
     <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
     <string name="invalid_url">Invalid URL</string>
     <string name="weather_condition_image">A graphical representation of the weather conditions</string>
