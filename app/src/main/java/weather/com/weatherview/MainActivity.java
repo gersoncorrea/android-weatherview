@@ -28,6 +28,7 @@ import java.util.List;
 import weather.com.weatherview.adapter.WeatherAdapter;
 import weather.com.weatherview.model.Weather;
 
+
 public class MainActivity extends AppCompatActivity {
     private List<Weather> weatherList = new ArrayList<>();
     CoordinatorLayout coordinatorLayout;
@@ -43,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // initialize app
         initialize();
 
     }
